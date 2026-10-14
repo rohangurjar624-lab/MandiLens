@@ -1,0 +1,18 @@
+Commodity,market_records,avg_modal_price,lowest_modal_price,highest_modal_price
+Cotton,1,8700.0,8700.0,8700.0
+Mustard,1,7600.0,7600.0,7600.0
+Garlic,1,6800.0,6800.0,6800.0
+Soyabean,4,6027.5,5500.0,6600.0
+Onion,1,2652.0,2652.0,2652.0
+Wheat,3,2280.0,1950.0,2540.0
+Lemon,1,2200.0,2200.0,2200.0
+Maize,6,2037.67,1525.0,2400.0
+Cabbage,1,2000.0,2000.0,2000.0
+Bhindi(Ladies Finger),1,1900.0,1900.0,1900.0
+Methi(Leaves),1,1800.0,1800.0,1800.0
+Green Chilli,1,1800.0,1800.0,1800.0
+Banana,1,1600.0,1600.0,1600.0
+Potato,1,1200.0,1200.0,1200.0
+Cucumbar(Kheera),1,1000.0,1000.0,1000.0
+Tomato,2,987.5,900.0,1075.0
+Brinjal,2,687.5,375.0,1000.0

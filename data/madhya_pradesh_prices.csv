@@ -1,0 +1,30 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+Madhya Pradesh,Bhind,Lahar APMC,Mustard,Mustard,FAQ,13/10/2026,7500,7600,7600.0
+Madhya Pradesh,Shivpuri,Karera(F&V) APMC,Banana,Banana-Organic,Local,13/10/2026,1400,1800,1600.0
+Madhya Pradesh,Harda,Khirkiya APMC,Maize,Local,Non-FAQ,13/10/2026,1900,2000,2000.0
+Madhya Pradesh,Ratlam,Ratlam(F&V) APMC,Bhindi(Ladies Finger),Other,FAQ,13/10/2026,1400,2200,1900.0
+Madhya Pradesh,Ratlam,Ratlam(F&V) APMC,Garlic,Desi,FAQ,13/10/2026,1000,14550,6800.0
+Madhya Pradesh,Dhar,Gandhwani APMC,Maize,Local,FAQ,13/10/2026,2400,2400,2400.0
+Madhya Pradesh,Ratlam,Ratlam(F&V) APMC,Brinjal,Other,FAQ,13/10/2026,800,1200,1000.0
+Madhya Pradesh,Mandsaur,Garoth(F&V) APMC,Brinjal,Brinjal,Local,13/10/2026,325,400,375.0
+Madhya Pradesh,Mandsaur,Garoth(F&V) APMC,Tomato,Tomato,Local,13/10/2026,1025,1150,1075.0
+Madhya Pradesh,Dhar,Manawar APMC,Cotton,Without Ginned Cotton,FAQ,13/10/2026,8600,8700,8700.0
+Madhya Pradesh,Ratlam,Ratlam(F&V) APMC,Cucumbar(Kheera),Other,FAQ,13/10/2026,600,1200,1000.0
+Madhya Pradesh,Ratlam,Ratlam(F&V) APMC,Methi(Leaves),Other,FAQ,13/10/2026,1300,2000,1800.0
+Madhya Pradesh,Ratlam,Ratlam(F&V) APMC,Onion,Other,FAQ,13/10/2026,750,3830,2652.0
+Madhya Pradesh,Dhar,Kukshi APMC,Maize,Local,Non-FAQ,13/10/2026,1525,1525,1525.0
+Madhya Pradesh,Seoni,Ghansour APMC,Maize,Local,FAQ,13/10/2026,2200,2200,2200.0
+Madhya Pradesh,Dhar,Badnawar APMC,Soyabean,Soyabeen,FAQ,13/10/2026,6600,6600,6600.0
+Madhya Pradesh,Khargone,Bhikangaon APMC,Maize,Local,FAQ,13/10/2026,2250,2250,2250.0
+Madhya Pradesh,Ratlam,Ratlam(F&V) APMC,Green Chilli,Other,FAQ,13/10/2026,1200,2000,1800.0
+Madhya Pradesh,Ratlam,Ratlam(F&V) APMC,Lemon,Lemon,FAQ,13/10/2026,1600,2500,2200.0
+Madhya Pradesh,Ratlam,Ratlam(F&V) APMC,Potato,Other,FAQ,13/10/2026,1000,1400,1200.0
+Madhya Pradesh,Ratlam,Ratlam(F&V) APMC,Tomato,Other,FAQ,13/10/2026,500,1100,900.0
+Madhya Pradesh,Khargone,Khargone APMC,Soyabean,Soyabeen,FAQ,13/10/2026,5640,5640,5640.0
+Madhya Pradesh,Vidisha,Lateri APMC,Wheat,Wheat,Non-FAQ,13/10/2026,2350,2350,2350.0
+Madhya Pradesh,Khandwa,Mundi APMC,Soyabean,Soyabeen,FAQ,13/10/2026,5500,5500,5500.0
+Madhya Pradesh,Ratlam,Ratlam(F&V) APMC,Cabbage,Other,FAQ,13/10/2026,1500,2300,2000.0
+Madhya Pradesh,Dhar,Dhar APMC,Soyabean,Soyabeen,FAQ,13/10/2026,6370,6370,6370.0
+Madhya Pradesh,Dhar,Kukshi APMC,Wheat,Wheat,FAQ,13/10/2026,2540,2540,2540.0
+Madhya Pradesh,Chhindwara,Chaurai APMC,Maize,Yellow,FAQ,13/10/2026,1800,1851,1851.0
+Madhya Pradesh,Vidisha,Lateri APMC,Wheat,Mill Quality,Non-FAQ,13/10/2026,1950,1950,1950.0

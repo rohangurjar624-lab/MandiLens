@@ -1,0 +1,13 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor settings
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
